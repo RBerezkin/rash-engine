@@ -1,0 +1,3 @@
+[submodule "Rash/vendor/spdlog"]
+	path = Rash/vendor/spdlog
+	url = https://github.com/gabime/spdlog
